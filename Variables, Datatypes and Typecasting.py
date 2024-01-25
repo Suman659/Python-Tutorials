@@ -19,4 +19,12 @@ float- float()
 integer- int()
 '''
 
-Typecasting
+#Typecasting
+
+'''
+print(type(a))  #If you want to know the type of the variable
+print(a+str(b))
+print(b+c)
+print(b+int(c))
+print(a+str(b)+str(c))
+'''
